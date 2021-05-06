@@ -1,3 +1,7 @@
+// Michael_Clautice, Richmond, VA
+// The Net Ninja - Node JS Tutorial for Beginners 
+// Lesson 07 - Module Patterns
+//-----
 let mikesCounter = function(arr){
     return '•••••••••\nmikesCounter:\nThere be ' + arr.length + ' elements in Mikes demo array';
 };
