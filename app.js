@@ -1,5 +1,5 @@
 // Michael Clautice, Richmond, VA
-// The Net Ninja - Node JS Tutorial for Beginners 
+// The Net Ninja - NodeJS Tutorial for Beginners 
 // Lesson 07 - Module Patterns
 //-----
 let stuff = require('./stuff.js');
