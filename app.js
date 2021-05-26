@@ -10,11 +10,16 @@ let stuff = require('./stuff.js');
 console.log(stuff.mikesCounter(['arrItem1', 'arrItem2', 'arrItem3', 'arrItem4', 'arrItem5', 'arrItem6', 'arrItem7']));
 
 // console.log this:
-// call mikesAdder fnctn in stuff.js 
+// call mikesAdder1 fnctn in stuff.js 
 // send it 2 int args
-console.log(stuff.mikesAdder(11,11));
+console.log(stuff.mikesAdder1(11,11));
 
 // console.log this:
-// call mikesAdder fnctn in stuff.js 
+// call mikesAdder2 fnctn in stuff.js 
+// send it 2 int args
+console.log(stuff.mikesAdder2(9,9));
+
+// console.log this:
+// call mikesAdder1 fnctn in stuff.js 
 // send it th valu of MikesPi & an int
-console.log(stuff.mikesAdder(stuff.mikesPi, 7));
+console.log(stuff.mikesAdder1(stuff.mikesPi, 7));
